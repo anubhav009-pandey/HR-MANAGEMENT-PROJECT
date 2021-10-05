@@ -1,2 +1,2 @@
-# HR-MMANAGEMENT-PROJECT
+# HR-MANAGEMENT-PROJECT
 This is a python project using OOPs concepts and creating csv files for storing data of the employees
